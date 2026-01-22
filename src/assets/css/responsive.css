@@ -305,6 +305,14 @@ Version      : 1.0
         word-spacing: 1px;
     }
 
+    .hero-content p {
+        font-size: 13px;
+        line-height: 20px;
+        margin-top: 12px;
+        margin-bottom: 15px;
+        opacity: 0.9;
+    }
+
     .hero-content .dot-shape {
         left: 3%;
         top: 15%;

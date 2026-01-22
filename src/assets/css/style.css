@@ -1167,6 +1167,13 @@ body.light-mode .social-style-one a:nth-child(4) { background: #e4405f; }
     text-decoration: underline;
 }
 
+.hero-content p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 15px;
+    opacity: 0.85;
+}
+
 .author-image-part {
     z-index: 1;
     overflow: hidden;

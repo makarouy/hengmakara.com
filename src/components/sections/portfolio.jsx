@@ -183,7 +183,7 @@ const Card = ({ category, title, src, slug, animationClass, id }) => {
               width={500}
               height={500}
               sizes="100vw"
-              style={{ width: '100%', height: 'auto', aspectRatio: '1/1', objectFit: 'cover' }}
+              style={{ width: '100%', height: 'auto', aspectRatio: '16/9', objectFit: 'cover' }}
               src={imgSrc}
               alt={title}
               onError={() => setImgSrc('/images/projects/work1.jpg')}

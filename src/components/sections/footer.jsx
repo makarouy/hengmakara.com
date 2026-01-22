@@ -83,7 +83,7 @@ const Footer = () => {
                                 {/* Payment Methods */}
                                 <div className="payment-methods mb-4">
                                     <h5 className="footer-heading mb-3" style={{ fontSize: '14px', color: '#888', textTransform: 'uppercase', letterSpacing: '1px' }}>Accepted Payments</h5>
-                                    <div className="d-flex justify-content-center gap-4 flex-wrap align-items-center">
+                                    <div className="d-flex justify-content-center gap-2 gap-md-4 flex-wrap align-items-center">
                                         {payments.map((item, index) => {
                                             const Icon = ICON_MAP[item.icon] || ICON_MAP[item.iconName]
                                             
@@ -92,16 +92,16 @@ const Footer = () => {
                                             
                                             if (isTextPayment) {
                                                 return (
-                                                    <div key={index} className="payment-icon d-flex align-items-center gap-2" title={item.name} style={{ opacity: 0.7, color: 'var(--heading-color)', fontWeight: 'bold', fontSize: '14px' }}>
-                                                        {item.icon && Icon && <Icon size={24} />}
-                                                        <span>{item.name}</span>
+                                                    <div key={index} className="payment-icon d-flex align-items-center gap-1 gap-md-2" title={item.name} style={{ opacity: 0.7, color: 'var(--heading-color)', fontWeight: 'bold', fontSize: '14px' }}>
+                                                        {item.icon && Icon && <Icon className="payment-icon-svg" size={24} />}
+                                                        <span className="payment-text">{item.name}</span>
                                                     </div>
                                                 )
                                             }
 
                                             return (
                                                 <div key={index} className="payment-icon" title={item.name} style={{ opacity: 0.7 }}>
-                                                    {Icon ? <Icon size={32} color={item.color || 'var(--heading-color)'} /> : item.name}
+                                                    {Icon ? <Icon className="payment-icon-svg" size={32} color={item.color || 'var(--heading-color)'} /> : item.name}
                                                 </div>
                                             )
                                         })}
@@ -115,19 +115,18 @@ const Footer = () => {
                                 </div>
 
                                 {/* Certifications */}
-                                <div className="certifications mt-5">
+                                <div className="certifications mt-4 mt-lg-5">
                                     <h5 className="footer-heading mb-3" style={{ fontSize: '14px', color: 'var(--lighter-color)', textTransform: 'uppercase', letterSpacing: '1px' }}>Verified & Certified By</h5>
-                                    <div className="d-flex justify-content-center gap-3 flex-wrap align-items-center">
+                                    <div className="d-flex justify-content-center gap-2 gap-md-3 flex-wrap align-items-center">
                                         {certifications.map((cert, index) => (
                                             <a 
                                                 key={index} 
                                                 href={cert.url} 
                                                 target="_blank" 
                                                 rel="noopener noreferrer"
-                                                className="cert-badge d-flex align-items-center gap-2" 
+                                                className="cert-badge d-flex align-items-center gap-2 px-2 py-1 px-md-3 py-md-2" 
                                                 style={{ 
                                                     background: 'var(--border-light)', 
-                                                    padding: '8px 16px', 
                                                     borderRadius: '50px',
                                                     border: '1px solid var(--border-light)',
                                                     textDecoration: 'none',
@@ -142,10 +141,10 @@ const Footer = () => {
                                                     e.currentTarget.style.transform = 'translateY(0)'
                                                 }}
                                             >
-                                                <RiShieldCheckFill size={18} color="#4CAF50" style={{ flexShrink: 0 }} />
+                                                <RiShieldCheckFill className="cert-icon" size={18} color="#4CAF50" style={{ flexShrink: 0 }} />
                                                 <div className="cert-info text-start" style={{ lineHeight: '1.2' }}>
-                                                    <span style={{ display: 'block', fontSize: '13px', color: 'var(--heading-color)', fontWeight: '600' }}>{cert.name}</span>
-                                                    <span style={{ display: 'block', fontSize: '11px', color: 'var(--lighter-color)' }}>{cert.issuer}</span>
+                                                    <span className="cert-name" style={{ display: 'block', fontSize: '13px', color: 'var(--heading-color)', fontWeight: '600' }}>{cert.name}</span>
+                                                    <span className="cert-issuer" style={{ display: 'block', fontSize: '11px', color: 'var(--lighter-color)' }}>{cert.issuer}</span>
                                                 </div>
                                             </a>
                                         ))}
@@ -155,20 +154,20 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="row border-top pt-4" style={{ borderColor: 'var(--border-light)' }}>
-                        <div className="col-lg-6">
-                            <div className="copyright-text">
-                                <p>
+                    <div className="row border-top pt-3 pt-md-4 footer-bottom-row" style={{ borderColor: 'var(--border-light)' }}>
+                        <div className="col-6">
+                            <div className="copyright-text text-start">
+                                <p className="m-0 footer-copy-text" style={{ fontSize: '11px', lineHeight: '1.4' }}>
                                     © {year}, <Link href="/">HENG MAKARA</Link> All
                                     Rights Reserved.
                                 </p>
                             </div>
                         </div>
-                        <div className="col-lg-6">
-                            <div className="copyright-text extra-copyright text-lg-end">
-                                <p>
-                                    <Link href="/privacy-policy" style={{marginRight: '15px'}}>Privacy Policy</Link>
-                                    <Link href="/terms">Terms of Service</Link>
+                        <div className="col-6">
+                            <div className="copyright-text extra-copyright text-end">
+                                <p className="m-0 footer-copy-text" style={{ fontSize: '11px', lineHeight: '1.4' }}>
+                                    <Link href="/privacy-policy" style={{marginRight: '10px'}}>Privacy Policy</Link>
+                                    <Link href="/terms">Terms</Link>
                                 </p>
                             </div>
                         </div>

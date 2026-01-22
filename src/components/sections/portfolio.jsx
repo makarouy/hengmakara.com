@@ -175,7 +175,7 @@ const Card = ({ category, title, src, slug, animationClass, id }) => {
   }, [src]);
 
   return (
-    <div className={`col-lg-4 col-md-6 item ${animationClass}`}>
+    <div className={`col-lg-4 col-md-6 col-6 item ${animationClass}`}>
       <SlideUp delay={id}>
         <div className="project-item style-two">
           <div className="project-image">

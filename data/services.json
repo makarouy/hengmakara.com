@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"icon": "RiGlobalFill",
+		"title": "Account Recovery & Platform Support",
+		"description": "Professional recovery and support for Facebook, Instagram, TikTok, Gmail, and YouTube accounts. Secure access, resolve restrictions, and restore accounts safely."
+	},
+	{
+		"id": 2,
+		"icon": "RiQuillPenLine",
+		"title": "Digital Marketing & Ads Management",
+		"description": "Strategic Meta (Facebook & Instagram), TikTok advertising, campaign setup, optimization, audience targeting, performance tracking, and reporting to grow your brand online."
+	},
+	{
+		"id": 3,
+		"icon": "RiPantoneFill",
+		"title": "Media Production (TVC & Commercial)",
+		"description": "High-quality filming, TVC, and commercial video production. From planning and shooting to editing and final delivery."
+	}
+]

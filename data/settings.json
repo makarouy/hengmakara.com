@@ -1,0 +1,87 @@
+{
+  "siteName": "Heng Makara",
+  "siteDescription": "Social Media Recovery & Digital Marketing Specialist",
+  "contactEmail": "contact@hengmakara.com",
+  "phone": "(+855) 061 212 226",
+  "address": "Phnom Penh, Cambodia",
+  "socialFacebook": "https://web.facebook.com/hengmakarafilm/",
+  "socialTwitter": "https://x.com/makarouy_",
+  "socialLinkedin": "https://www.linkedin.com/in/hengmakara/",
+  "socialInstagram": "https://instagram.com",
+  "socialTelegram": "https://t.me/hengmakaraz",
+  "socialYoutube": "https://www.youtube.com/@hengmakara",
+  "createdAt": "2026-01-22T17:48:36.137Z",
+  "footer": {
+    "payments": [
+      {
+        "name": "Visa",
+        "icon": "RiVisaFill"
+      },
+      {
+        "name": "Mastercard",
+        "icon": "RiMastercardFill"
+      },
+      {
+        "name": "PayPal",
+        "icon": "RiPaypalFill"
+      },
+      {
+        "name": "Crypto",
+        "icon": "RiBitCoinFill"
+      },
+      {
+        "name": "KHQR",
+        "icon": "RiQrCodeFill"
+      },
+      {
+        "name": "ABA Bank",
+        "icon": "RiBankCardFill"
+      },
+      {
+        "name": "ACLEDA Bank",
+        "icon": "RiBankCardFill"
+      },
+      {
+        "name": "Wing Bank",
+        "icon": "RiWallet3Fill"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Meta Social Media Marketing",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/3dcb155e89b3d7fcc0b1e26ef1f9419e"
+      },
+      {
+        "name": "Introduction to Social Media Marketing",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/bb031a394483734bbba3245efa6dac49"
+      },
+      {
+        "name": "Advertising with Meta",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/968f05d4dd67ae05c8432bb0b9d55276"
+      },
+      {
+        "name": "Measure and Optimize Social Media Marketing Campaigns",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/eb6e90768759890afd3ac2d07603e827"
+      },
+      {
+        "name": "Social Media Management",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/45b5430afc796c4d2dda3a60f58781b8"
+      },
+      {
+        "name": "Fundamentals of Social Media Advertising",
+        "issuer": "Coursera",
+        "url": "https://coursera.org/share/72ce912f1360b720429893d1e5b6ec7f"
+      },
+      {
+        "name": "Meta Social Media Marketing Professional Certificate(v.2)",
+        "issuer": "Credly",
+        "url": "https://www.credly.com/badges/faf85ad3-9d60-41ca-aee3-164ff8e37946"
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin@hengmakara.com",
+      "password": "Makarouy@123",
+      "email": "admin@hengmakara.com",
+      "role": "admin",
+      "permissions": ["create", "read", "update", "delete", "archive", "duplicate"]
+    },
+    {
+      "id": 2,
+      "username": "expert",
+      "password": "expert123",
+      "email": "expert@hengmakara.com",
+      "role": "expert",
+      "permissions": ["create", "read", "update", "archive"]
+    }
+  ],
+  "settings": {
+    "enableArchive": true,
+    "enableDuplicate": true,
+    "autoSave": true
+  }
+}

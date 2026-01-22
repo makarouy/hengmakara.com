@@ -1,0 +1,51 @@
+export const projectsData = [
+  {
+    id: 6,
+    src: "/images/projects/work6.jpg",
+    category: "Media Production",
+    title: "Project Borey Rachana",
+    slug: "borey-rachana-short-film",
+    excerpt: "Professional video production for films, TVCs, and commercial campaigns.",
+  },
+  {
+    id: 1,
+    src: "/images/projects/work1.jpg",
+    category: "Account Recovery",
+    title: "Facebook Page & Account Recovery",
+    slug: "facebook-page-account-recovery/",
+    excerpt: "Recover disabled Facebook pages and accounts, restore admin access, and secure ownership.",
+  },
+  {
+    id: 2,
+    src: "/images/projects/work2.jpg",
+    category: "Account Recovery",
+    title: "Gmail & YouTube Channel Recovery",
+    slug: "gmail-youtube-channel-recovery",
+    excerpt: "Restore suspended Gmail accounts and recover terminated or hacked YouTube channels.",
+  },
+  {
+    id: 3,
+    src: "/images/projects/work3.jpg",
+    category: "Digital Marketing",
+    title: "Meta & Instagram Ads Support",
+    slug: "meta-instagram-ads-support",
+    excerpt: "Ad account setup, policy fixes, billing issues, and performance optimization.",
+  },
+  {
+    id: 4,
+    src: "/images/projects/work4.jpg",
+    category: "Digital Marketing",
+    title: "TikTok Marketing & Account Support",
+    slug: "tiktok-marketing-account-support",
+    excerpt: "TikTok Ads setup, campaign scaling, and account issue resolution.",
+  },
+  {
+    id: 5,
+    src: "/images/projects/work5.jpg",
+    category: "Media Production",
+    title: "BTS Film, TVC & Commercial Media Production",
+    slug: "bts-film-tvc-commercial-production",
+    excerpt: "Behind-the-scenes filming, TV commercials, and full production support.",
+  },
+
+];

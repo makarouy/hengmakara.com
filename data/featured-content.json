@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "video",
+    "title": "Recent Work Showcase",
+    "content": "Check out our latest video projects",
+    "mediaUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mediaType": "youtube",
+    "thumbnail": "/images/projects/work1.jpg",
+    "featured": true,
+    "createdAt": "2026-01-21",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "title": "Project Showcase",
+    "content": "Amazing project we completed",
+    "mediaUrl": "/images/projects/work2.jpg",
+    "mediaType": "image",
+    "thumbnail": "/images/projects/work2.jpg",
+    "featured": true,
+    "createdAt": "2026-01-21",
+    "order": 2
+  }
+]

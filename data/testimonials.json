@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"name": "Business Owner",
+		"position": "Facebook Page Recovery",
+		"src": "/images/testimonials/author1.jpg",
+		"review": "My Facebook page was disabled and I thought it was lost forever. Heng Makara helped recover it professionally and guided me step by step. Very reliable and fast support."
+	},
+	{
+		"id": 2,
+		"name": "E-commerce Seller",
+		"position": "Meta Ads Support",
+		"src": "/images/testimonials/author2.jpg",
+		"review": "He managed my Facebook and Instagram ads professionally. Campaign performance improved, costs were optimized, and reports were always clear and easy to understand."
+	},
+	{
+		"id": 3,
+		"name": "Content Creator",
+		"position": "Account Recovery & Support",
+		"src": "/images/testimonials/author1.jpg",
+		"review": "My account issue was resolved quickly with clear communication. I felt safe and supported throughout the entire recovery process."
+	},
+	{
+		"id": 4,
+		"name": "Brand Manager",
+		"position": "Media Production",
+		"src": "/images/testimonials/author2.jpg",
+		"review": "High-quality Film and commercial video production. Very professional workflow, great communication, and excellent final results."
+	}
+]

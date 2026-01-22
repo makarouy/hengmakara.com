@@ -1,0 +1,279 @@
+[
+  {
+    "id": 1,
+    "title": "Basic",
+    "price": "119",
+    "sortInfo": "Best for individuals, startups & testing ads",
+    "features": [
+      {
+        "id": 1,
+        "feature": "Meta (Facebook & Instagram) Ads Management",
+        "unable": false
+      },
+      {
+        "id": 2,
+        "feature": "Ads Setup & Optimization",
+        "unable": false
+      },
+      {
+        "id": 3,
+        "feature": "Audience Targeting & Retargeting",
+        "unable": false
+      },
+      {
+        "id": 4,
+        "feature": "Budget & Bidding Optimization",
+        "unable": false
+      },
+      {
+        "id": 5,
+        "feature": "Weekly Performance Tracking",
+        "unable": false
+      },
+      {
+        "id": 6,
+        "feature": "Simple Performance Report",
+        "unable": false
+      },
+      {
+        "id": 7,
+        "feature": "Free Page (10K followers)",
+        "unable": false
+      },
+      {
+        "id": 8,
+        "feature": "Page Issue Check & Fix (basic)",
+        "unable": false
+      }
+    ],
+    "unit": "/Month"
+  },
+  {
+    "id": 2,
+    "title": "Standard",
+    "price": "199",
+    "sortInfo": "  Not have any design? <br> Leave its for me",
+    "features": [
+      {
+        "id": 1,
+        "feature": "Meta (Facebook & Instagram) Ads Management",
+        "unable": false
+      },
+      {
+        "id": 2,
+        "feature": "Ads Setup & Optimization",
+        "unable": false
+      },
+      {
+        "id": 3,
+        "feature": "Audience Targeting & Retargeting",
+        "unable": false
+      },
+      {
+        "id": 4,
+        "feature": "Budget & Bidding Optimization",
+        "unable": false
+      },
+      {
+        "id": 5,
+        "feature": "Weekly Performance Tracking",
+        "unable": false
+      },
+      {
+        "id": 6,
+        "feature": "Simple Performance Report",
+        "unable": false
+      },
+      {
+        "id": 7,
+        "feature": "Free Page (10K followers)",
+        "unable": false
+      },
+      {
+        "id": 8,
+        "feature": "Page Issue Check & Fix (basic) ",
+        "unable": false
+      },
+      {
+        "id": 9,
+        "feature": "Page Security Setup (roles, access, basic protection)",
+        "unable": false
+      }
+    ],
+    "unit": "/Month"
+  },
+  {
+    "id": 3,
+    "title": "Gold",
+    "price": "299",
+    "sortInfo": "Have design ready to build? <br> or small budget",
+    "features": [
+      {
+        "id": 1,
+        "feature": "Meta (Facebook & Instagram) Ads Management",
+        "unable": false
+      },
+      {
+        "id": 2,
+        "feature": "Ads Setup & Optimization",
+        "unable": false
+      },
+      {
+        "id": 3,
+        "feature": "Audience Targeting & Retargeting",
+        "unable": false
+      },
+      {
+        "id": 4,
+        "feature": "Budget & Bidding Optimization",
+        "unable": false
+      },
+      {
+        "id": 5,
+        "feature": "Weekly Performance Tracking",
+        "unable": false
+      },
+      {
+        "id": 6,
+        "feature": "Simple Performance Report",
+        "unable": false
+      },
+      {
+        "id": 7,
+        "feature": "Free Page (10K followers)",
+        "unable": false
+      },
+      {
+        "id": 8,
+        "feature": "Advanced Page Security & Access Control",
+        "unable": false
+      },
+      {
+        "id": 9,
+        "feature": "Page Issue Resolution (page suspended, quality issues)",
+        "unable": false
+      }
+    ],
+    "unit": "/Month"
+  },
+  {
+    "id": "4",
+    "title": "What We Fix & Recover",
+    "price": "",
+    "sortInfo": "Professional Account Fix & Recovery Services",
+    "features": [
+      {
+        "id": 1769105179867,
+        "feature": "Facebook Page & Personal Account Recovery",
+        "unable": false
+      },
+      {
+        "id": 1769105179868,
+        "feature": "Instagram Account Recovery",
+        "unable": false
+      },
+      {
+        "id": 1769105179869,
+        "feature": "TikTok Account Recovery & Support",
+        "unable": false
+      },
+      {
+        "id": 1769105179870,
+        "feature": "Gmail / Google Account Recovery",
+        "unable": false
+      },
+      {
+        "id": 1769105179871,
+        "feature": "Ads Account & Business Manager Issues",
+        "unable": false
+      },
+      {
+        "id": 1769105179872,
+        "feature": "Page Restrictions, Quality & Policy Issues(Hacked, disabled, restricted, unpublished, removed)",
+        "unable": false
+      }
+    ],
+    "unit": "",
+    "active": true
+  },
+  {
+    "id": "5",
+    "title": "Security & Protection",
+    "price": "",
+    "sortInfo": "Security Protection & Platform Support",
+    "features": [
+      {
+        "id": 1769105173539,
+        "feature": "Secure account access & admin roles",
+        "unable": false
+      },
+      {
+        "id": 1769105173540,
+        "feature": "Remove suspicious access, hackers, and unauthorized admins",
+        "unable": false
+      },
+      {
+        "id": 1769105173541,
+        "feature": "Review login activity and connected devices",
+        "unable": false
+      },
+      {
+        "id": 1769105173542,
+        "feature": "Improve account safety & long-term stability",
+        "unable": false
+      },
+      {
+        "id": 1769105173543,
+        "feature": "Enable recommended security settings (2FA, recovery options)",
+        "unable": false
+      },
+      {
+        "id": 1769105173544,
+        "feature": "Protect Business Manager, Ads Account & Page roles",
+        "unable": false
+      }
+    ],
+    "unit": "",
+    "active": true
+  },
+  {
+    "id": "6",
+    "title": "Media Production (TVC & Commercial)",
+    "price": "",
+    "sortInfo": "High-quality TVC and commercial video production.",
+    "features": [
+      {
+        "id": 1769105164532,
+        "feature": "Concept Development & Creative Planning",
+        "unable": false
+      },
+      {
+        "id": 1769105164533,
+        "feature": "Pre-Production Management",
+        "unable": false
+      },
+      {
+        "id": 1769105164534,
+        "feature": "Professional Filming & Cinematography",
+        "unable": false
+      },
+      {
+        "id": 1769105164535,
+        "feature": "Director & Assistant Director (AD) Support",
+        "unable": false
+      },
+      {
+        "id": 1769105164536,
+        "feature": "Commercial & TVC Production",
+        "unable": false
+      },
+      {
+        "id": 1769105164537,
+        "feature": "Video Editing & Post-Production",
+        "unable": false
+      }
+    ],
+    "unit": "",
+    "active": true
+  }
+]

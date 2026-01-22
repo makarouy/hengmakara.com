@@ -1,0 +1,355 @@
+[
+  {
+    "id": 6,
+    "src": "/images/projects/work6.jpg",
+    "category": "Media Production",
+    "title": "Project Borey Rachana",
+    "slug": "borey-rachana-short-film",
+    "excerpt": "Professional video production for films, TVCs, and commercial campaigns.",
+    "description": "Direct Short Film for Borey Rachana is an upcoming 2026 media production project where I serve as the Assistant Director. I support the director by managing on-set coordination, guiding the shooting schedule, organizing scenes and takes, and ensuring clear communication between departments. My focus is to maintain smooth production flow, keep the team aligned with the creative vision, and deliver efficient, high-quality results from planning to wrap. My role is to keep the production organized, focused, and ready for a smooth post-production process.",
+    "year": "2026",
+    "client": "Borey Rachana",
+    "services": "Media Production",
+    "role": "Assistant Director (AD)",
+    "gallery": [
+      "/images/projects/media-production/borey-rachana-shortfilm/cover.jpg",
+      "/images/projects/media-production/borey-rachana-shortfilm/bts1.jpg",
+      "/images/projects/media-production/borey-rachana-shortfilm/bts2.jpg",
+      "/images/projects/media-production/borey-rachana-shortfilm/bts3.jpg"
+    ],
+    "createdAt": "2026-01-21",
+    "featured": true,
+    "archived": true,
+    "updatedAt": "2026-01-22"
+  },
+  {
+    "id": 2,
+    "src": "/images/projects/work2.jpg",
+    "category": "Account Recovery",
+    "title": "Gmail & YouTube Channel Recovery",
+    "slug": "gmail-youtube-channel-recovery",
+    "excerpt": "Restore suspended Gmail accounts and recover terminated or hacked YouTube channels.",
+    "description": "Gmail and YouTube recovery services",
+    "year": "2024",
+    "client": "Bento Studio",
+    "services": "Account Recovery",
+    "role": "Account Recovery Specialist",
+    "gallery": [],
+    "createdAt": "2024-01-02",
+    "featured": true,
+    "archived": true,
+    "updatedAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick.\n\nThe page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence.\n\nThis verification helps the business:\n\nBuild trust and credibility with customers\n\nProtect the page from impersonation and fake accounts\n\nIncrease brand authority and professionalism\n\nImprove confidence for advertising and partnerships\n\nAll steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "HuySophanna",
+    "src": "/images/projects/uploads/1769114401400-859805414-Huy-Sophanna.jpg",
+    "year": "2025",
+    "client": "Huy Sophanna",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [
+      "/images/projects/uploads/1769114411658-515532837-Huy-Sophanna.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4?si=CpbljctQQLJ0iuaU"
+    ],
+    "featured": true,
+    "archived": false,
+    "id": 1769114473285,
+    "createdAt": "2026-01-22T20:41:13.285Z"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "24Secrect",
+    "src": "/images/projects/uploads/1769114863606-335717270-24-Secrect.jpg",
+    "year": "2025",
+    "client": "24 Secrect",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [
+      "/images/projects/uploads/1769114870948-550244621-24-Secrect.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727449",
+    "createdAt": "2026-01-22T20:45:27.449Z"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "Jupit",
+    "src": "/images/projects/uploads/1769114894147-890750346-Jupit.jpg",
+    "year": "2025",
+    "client": "Jupit",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [
+      "/images/projects/uploads/1769114898016-925399290-Jupit.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727450",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "KeeZoCozy",
+    "src": "/images/projects/uploads/1769114933292-882231173-KeeZoCozy.jpg",
+    "year": "2025",
+    "client": "KeeZoCozy",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [
+      "/images/projects/uploads/1769114939407-331721247-KeeZoCozy.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727451",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "Kontrok",
+    "src": "/images/projects/uploads/1769114966501-846015252-Kontrok.jpg",
+    "year": "2025",
+    "client": "Kontrok",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [
+      "/images/projects/uploads/1769114976623-247915528-Kontrok.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727452",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "Move",
+    "src": "/images/projects/uploads/1769114994344-914721017-Move.jpg",
+    "year": "2025",
+    "client": "Move",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [
+      "/images/projects/uploads/1769114997813-487348738-Move.jpg"
+    ],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727453",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "OYO",
+    "src": "/images/projects/uploads/1769115022162-342848578-OYO.jpg",
+    "year": "2025",
+    "client": "OYO",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727454",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "ProducerHouse",
+    "src": "/images/projects/uploads/1769115044706-668296665-Producer-House.jpg",
+    "year": "2025",
+    "client": "Producer House",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727455",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "ProfessionalAccountancyKH",
+    "src": "/images/projects/uploads/1769115072436-454888862-Professional-Accountancy-KH.jpg",
+    "year": "2025",
+    "client": "Professional Accountancy KH",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727456",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "SK1",
+    "src": "/images/projects/uploads/1769115110631-25266377-SK1.jpg",
+    "year": "2025",
+    "client": "SK1",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727457",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "SK2",
+    "src": "/images/projects/uploads/1769115134870-642735024-SK2.jpg",
+    "year": "2025",
+    "client": "SK1",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727458",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "VITA",
+    "src": "/images/projects/uploads/1769115155690-929171022-VITA.jpg",
+    "year": "2025",
+    "client": "VITA",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727459",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "Zinvo",
+    "src": "/images/projects/uploads/1769115175995-645674220-Zinvo.jpg",
+    "year": "2025",
+    "client": "Zinvo",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727460",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed ",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "kenghong",
+    "src": "/images/projects/uploads/1769115197564-91310263----.jpg",
+    "year": "2025",
+    "client": "គឺ គឺ",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727461",
+    "createdAt": "2026-01-22"
+  },
+  {
+    "title": "Verified Blue Tick Successfully Completed ",
+    "category": "Digital Marketing",
+    "excerpt": "Business Facebook Page official Verified.",
+    "description": "This project showcases the successful verification of a business Facebook Page with an official Verified Blue Tick. The page was carefully reviewed and prepared to meet Meta’s eligibility requirements, including brand authenticity, business information accuracy, and compliance with Facebook policies. After completing the necessary verification steps, the page was officially approved and awarded the Blue Tick, confirming it as a trusted and authentic business presence. This verification helps the business: Build trust and credibility with customers Protect the page from impersonation and fake accounts Increase brand authority and professionalism Improve confidence for advertising and partnerships All steps were handled through proper channels and official Meta procedures, ensuring a safe and policy-compliant result.",
+    "slug": "pvirak",
+    "src": "/images/projects/uploads/1769115262182-38085395-----------.jpg",
+    "year": "2025",
+    "client": "Pvirak",
+    "services": "Verified Business Facebook Page ",
+    "role": "Digital Maketing Specialist",
+    "gallery": [],
+    "videos": [
+      "https://www.youtube.com/embed/9ZipZq4Csc4"
+    ],
+    "featured": false,
+    "archived": false,
+    "id": "1769114727462",
+    "createdAt": "2026-01-22"
+  }
+]

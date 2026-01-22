@@ -5,7 +5,7 @@
 
 # Configuration
 APP_DIR="/var/www/hengmakara"
-REPO_URL="https://github.com/makarouy/makarouy.git"
+REPO_URL="https://github.com/makarouy/hengmakara.com.git"
 DOMAIN_OR_IP="157.10.72.125"
 
 # Colors

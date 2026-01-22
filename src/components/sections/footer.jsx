@@ -154,21 +154,20 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="row border-top pt-3 pt-md-4 footer-bottom-row" style={{ borderColor: 'var(--border-light)' }}>
-                        <div className="col-6">
-                            <div className="copyright-text text-start">
-                                <p className="m-0 footer-copy-text" style={{ fontSize: '11px', lineHeight: '1.4' }}>
-                                    © {year}, <Link href="/">HENG MAKARA</Link> All
-                                    Rights Reserved.
-                                </p>
-                            </div>
-                        </div>
-                        <div className="col-6">
-                            <div className="copyright-text extra-copyright text-end">
-                                <p className="m-0 footer-copy-text" style={{ fontSize: '11px', lineHeight: '1.4' }}>
-                                    <Link href="/privacy-policy" style={{marginRight: '10px'}}>Privacy Policy</Link>
-                                    <Link href="/terms">Terms</Link>
-                                </p>
+                    <div className="row border-top pt-3 pt-md-4 footer-bottom-row align-items-center" style={{ borderColor: 'var(--border-light)' }}>
+                        <div className="col-12">
+                            <div className="d-flex justify-content-between align-items-center flex-wrap gap-2">
+                                <div className="copyright-text text-start">
+                                    <p className="m-0 footer-copy-text" style={{ fontSize: '12px', lineHeight: '1.4' }}>
+                                        © {year}, <Link href="/">HENG MAKARA</Link> All Rights Reserved.
+                                    </p>
+                                </div>
+                                <div className="copyright-text extra-copyright text-end">
+                                    <p className="m-0 footer-copy-text" style={{ fontSize: '12px', lineHeight: '1.4' }}>
+                                        <Link href="/privacy-policy" style={{marginRight: '15px'}}>Privacy Policy</Link>
+                                        <Link href="/terms">Terms</Link>
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>

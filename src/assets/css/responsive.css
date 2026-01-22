@@ -202,20 +202,21 @@ Version      : 1.0
 
 
     .about-content-part h2 {
-        font-size: 30px;
-        line-height: 40px;
+        font-size: 24px;
+        line-height: 34px;
         margin-bottom: 20px;
         margin-top: 30px;
     }
 
     .section-title h2 {
-        font-size: 30px;
+        font-size: 24px;
     }
 
     .hero-content .job {
         display: inline-block;
-        padding: 12px 30px;
+        padding: 10px 20px;
         margin-top: 0px;
+        font-size: 14px;
     }
 
     .header-inner {
@@ -231,8 +232,8 @@ Version      : 1.0
     }
 
     .call-to-action-part h2 {
-        font-size: 30px;
-        line-height: 40px;
+        font-size: 24px;
+        line-height: 34px;
     }
 
     .about-area {
@@ -261,7 +262,7 @@ Version      : 1.0
     }
 
     .single-project-page-design h1 {
-        font-size: 30px;
+        font-size: 26px;
     }
 
     .about-image-part {
@@ -290,7 +291,8 @@ Version      : 1.0
 
     .hero-content h1 {
 
-        font-size: 40px;
+        font-size: 32px;
+        line-height: 42px;
     }
 
     .hero-content .dot-shape {
@@ -308,7 +310,7 @@ Version      : 1.0
     }
 
     .hero-counter-area .count-text {
-        font-size: 30px;
+        font-size: 24px;
     }
 
     .hero-counter-area .counter-title {
